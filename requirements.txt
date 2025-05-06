@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+openai
+fpdf
+beautifulsoup4
+requests
+jinja2
+pdfplumber
+streamlit
