@@ -1,4 +1,5 @@
 langchain
+langchain.tools
 langchain-community
 langchain-core
 openai
