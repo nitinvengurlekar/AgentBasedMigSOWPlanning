@@ -1,7 +1,8 @@
 import os
 import io
 from fpdf import FPDF
-from langchain_tools import Tool  # hypothetical import for generic tool registration
+# from langchain_tools import Tool  # hypothetical import for generic tool registration
+from langchain.tools import Tool
 from langchain_community.chat_models import ChatOpenAI
 from langchain_core.messages import HumanMessage
 from jinja2 import Template
